@@ -1,5 +1,5 @@
-import { Card } from "./components";
-import { FormField } from "./components";
-import { Loader } from "./components";
+import Card from "./Card";
+import FormField from "./FormField";
+import Loader from "./Loader";
 
 export { Card, FormField, Loader };
